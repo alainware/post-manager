@@ -1,1 +1,1 @@
-# post-manager
+# Post Manager
